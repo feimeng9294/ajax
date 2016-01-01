@@ -1,0 +1,15 @@
+﻿<message>
+<message_id>16</message_id>
+<username>李四</username>
+<gettername>王二</gettername>
+<content>你好王二</content>
+<sendtime>2015-04-01 10:26:57</sendtime>
+<isget>0</isget>
+
+<message_id>20</message_id>
+<username>李四</username>
+<gettername>王二</gettername>
+<content>你好王二</content>
+<sendtime>0000-00-00 00:00:00</sendtime>
+<isget>0</isget>
+</message>
